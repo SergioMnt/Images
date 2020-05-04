@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="490" preserveAspectRatio="xMinYMin meet" viewport="0 0 720 490">
-<title>Arduino Logo</title>
-<style type="text/css">
-.arduino {
-  fill: none;
-  stroke: #00979c;
-  stroke-width: 1;
-}
-
-.text {
-  fill: #00979c;
-  stroke-width: 1;
-}
-
-</style>  
-  <path id="infinity" class="arduino" style="stroke-width:59" d="M 174,30 C 78.937,22.427 -0.94153,134.8 38.361,221.95 76.313,316.35 219.35,342.08 287.52,266.37 353.4,201.82 378.85,102.8 459.04,51.741 541.07,-4.2196 673.25,48.616 688.79,148.17 704.41,243.5 601.73,336.36 508.52,308.1 439.81,292.57 390.37,233.95 362.24,172.33 327.72,113.36 282.59,50.526 212.19,33.945 199.68,31.108 186.82,29.987 174,30 z" />  
-  <path id="minus" class="arduino" d="M118,165 h120" style="stroke-width:25;" />
-  <path id="plus" class="arduino" d="M486,165 h100 m-51,-50 v100" style="stroke-width:32;" />
+	<title>
+		Arduino Logo
+	</title>
+	<style type="text/css">
+		.arduino {
+		fill: none;
+		stroke: #00979c;
+		stroke-width: 1;
+		}
+		
+		.text {
+		fill: #00979c;
+		stroke-width: 1;
+		}
+	</style>
+	<path id="infinity" class="arduino" style="stroke-width:59" d="M 174,30 C 78.937,22.427 -0.94153,134.8 38.361,221.95 76.313,316.35 219.35,342.08 287.52,266.37 353.4,201.82 378.85,102.8 459.04,51.741 541.07,-4.2196 673.25,48.616 688.79,148.17 704.41,243.5 601.73,336.36 508.52,308.1 439.81,292.57 390.37,233.95 362.24,172.33 327.72,113.36 282.59,50.526 212.19,33.945 199.68,31.108 186.82,29.987 174,30 z" />
+	<path id="minus" class="arduino" d="M118,165 h120" style="stroke-width:25;" />
+	<path id="plus" class="arduino" d="M486,165 h100 m-51,-50 v100" style="stroke-width:32;" />
 </svg>
