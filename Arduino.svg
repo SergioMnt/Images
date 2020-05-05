@@ -1,24 +1,24 @@
-<svg width="750" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
  <title>Arduino Logo</title>
  <style type="text/css">.arduino {
 		fill: none;
 		stroke: #00979c;
-		stroke-width: 59;
+		stroke-width: 5;
 		}
 
 		#minus{
-			stroke-width: 25
+			stroke-width: 2
 		}
 
 		#plus{
-			stroke-width: 32;
+			stroke-width: 3;
 		}</style>
  <g class="layer">
   <title>Layer 1</title>
   <g id="svg_1">
-   <path class="arduino" d="m189.75461,48.89396c-95.063,-7.573 -174.94153,104.8 -135.639,191.95c37.952,94.4 180.989,120.13 249.159,44.42c65.88,-64.55 91.33,-163.57 171.52,-214.629c82.03,-55.9606 214.21,-3.125 229.75,96.429c15.62,95.33 -87.06,188.19 -180.27,159.93c-68.71,-15.53 -118.15,-74.15 -146.28,-135.77c-34.52,-58.97 -79.65,-121.804 -150.05,-138.385c-12.51,-2.837 -25.37,-3.958 -38.19,-3.945z" fill="black" id="infinity" stroke-width="59"/>
-   <path class="arduino" d="m133.75461,183.89396l120,0" fill="black" id="minus" stroke-width="25"/>
-   <path class="arduino" d="m501.75461,183.89396l100,0m-51,-50l0,100" id="plus" stroke-width="32"/>
+   <path class="arduino" d="m15.90935,19.74335c-8.25729,-0.6578 -15.19564,9.10306 -11.78178,16.67302c3.29656,8.1997 15.72094,10.43465 21.64227,3.85838c5.72242,-5.6069 7.93304,-14.2079 14.89845,-18.64295c7.12523,-4.86081 18.60655,-0.27144 19.95638,8.37595c1.35677,8.28049 -7.56214,16.34642 -15.65848,13.89172c-5.96824,-1.34896 -10.26266,-6.44076 -12.70607,-11.79316c-2.99845,-5.12221 -6.9185,-10.58005 -13.03353,-12.0203c-1.08663,-0.24643 -2.20367,-0.3438 -3.31723,-0.34267z" fill="black" id="infinity" stroke-width="59"/>
+   <path class="arduino" d="m11.04511,31.46962l10.42335,0" fill="black" id="minus" stroke-width="25"/>
+   <path class="arduino" d="m43.01007,31.46962l8.68613,0m-4.42993,-4.34306l0,8.68613" id="plus" stroke-width="32"/>
   </g>
  </g>
 </svg>
