@@ -1,24 +1,24 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
  <title>Arduino Logo</title>
  <style type="text/css">.arduino {
 		fill: none;
 		stroke: #00979c;
-		stroke-width: 5;
+		stroke-width: 4;
 		}
 
 		#minus{
-			stroke-width: 2
+			stroke-width: 1
 		}
 
 		#plus{
-			stroke-width: 3;
+			stroke-width: 1;
 		}</style>
  <g class="layer">
   <title>Layer 1</title>
   <g id="svg_1">
-   <path class="arduino" d="m15.90935,19.74335c-8.25729,-0.6578 -15.19564,9.10306 -11.78178,16.67302c3.29656,8.1997 15.72094,10.43465 21.64227,3.85838c5.72242,-5.6069 7.93304,-14.2079 14.89845,-18.64295c7.12523,-4.86081 18.60655,-0.27144 19.95638,8.37595c1.35677,8.28049 -7.56214,16.34642 -15.65848,13.89172c-5.96824,-1.34896 -10.26266,-6.44076 -12.70607,-11.79316c-2.99845,-5.12221 -6.9185,-10.58005 -13.03353,-12.0203c-1.08663,-0.24643 -2.20367,-0.3438 -3.31723,-0.34267z" fill="black" id="infinity" stroke-width="59"/>
-   <path class="arduino" d="m11.04511,31.46962l10.42335,0" fill="black" id="minus" stroke-width="25"/>
-   <path class="arduino" d="m43.01007,31.46962l8.68613,0m-4.42993,-4.34306l0,8.68613" id="plus" stroke-width="32"/>
+   <path class="arduino" d="m10.06311,12.43084c-5.09934,-0.40622 -9.38417,5.62166 -7.27591,10.29653c2.03581,5.06377 9.70857,6.44398 13.36532,2.38276c3.53392,-3.46258 4.8991,-8.77418 9.20063,-11.51308c4.40023,-3.00182 11.49059,-0.16763 12.32419,5.17262c0.83789,5.11367 -4.67005,10.09483 -9.66999,8.57892c-3.68572,-0.83306 -6.33777,-3.97753 -7.84671,-7.28294c-1.85171,-3.16325 -4.27256,-6.53377 -8.04894,-7.42321c-0.67106,-0.15218 -1.36089,-0.21232 -2.04858,-0.21162l-0.00001,0.00001z" fill="black" id="infinity" stroke-width="59"/>
+   <path class="arduino" d="m7.05917,19.67246l6.43701,0" fill="black" id="minus" stroke-width="25"/>
+   <path class="arduino" d="m26.79934,19.67246l5.36418,0m-2.73573,-2.68209l0,5.36418" id="plus" stroke-width="32"/>
   </g>
  </g>
 </svg>
